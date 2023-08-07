@@ -1,0 +1,1 @@
+$newVM1.OSProfile | Select-Object -Property ComputerName, AdminUserName    ======verify the Name of the VM and the admin account we created
